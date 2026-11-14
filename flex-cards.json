@@ -9,10 +9,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#1B2A41"
+            "backgroundColor": "#1F3A68"
           },
           "footer": {
-            "backgroundColor": "#F1F5FA"
+            "backgroundColor": "#E6ECF3"
           }
         },
         "body": {
@@ -21,17 +21,17 @@
           "contents": [
             {
               "type": "text",
-              "text": "銓治工程｜從漏水檢測到防水修繕，為您處理房屋滲漏問題。",
-              "size": "xs",
+              "text": "從漏水檢測到防水修繕，為您處理滲漏。",
+              "size": "sm",
               "weight": "regular",
-              "color": "#9DB0C6",
+              "color": "#B4C4D8",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#1B2A41"
+          "backgroundColor": "#1F3A68"
         },
         "footer": {
           "type": "box",
@@ -40,9 +40,9 @@
             {
               "type": "text",
               "text": "1 / 6",
-              "size": "xxs",
+              "size": "xs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#26282B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -78,13 +78,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "官方網站",
@@ -97,7 +97,7 @@
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://ethan.cardtaiwan.com/img/icon-line-v3.png",
+                      "url": "https://ethan.cardtaiwan.com/img/icon-line-w-v3.png",
                       "size": "20px",
                       "aspectRatio": "1:1",
                       "aspectMode": "cover",
@@ -105,7 +105,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "官方LINE",
+                      "text": "官方 LINE",
                       "size": "xs",
                       "weight": "bold",
                       "color": "#FFFFFF",
@@ -118,16 +118,16 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
-                    "label": "官方LINE",
+                    "label": "官方 LINE",
                     "uri": "https://line.me/R/ti/p/@waterproof888"
                   }
                 },
@@ -158,13 +158,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "修繕需求",
@@ -205,17 +205,17 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
                     "label": "分享名片",
-                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-05-1451#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
+                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-14-10#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
                   }
                 }
               ],
@@ -228,7 +228,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://ethan.cardtaiwan.com/img/card1-v17.jpg",
+          "url": "https://ethan.cardtaiwan.com/img/card1-v18.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -244,10 +244,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#1B2A41"
+            "backgroundColor": "#1F3A68"
           },
           "footer": {
-            "backgroundColor": "#F1F5FA"
+            "backgroundColor": "#E6ECF3"
           }
         },
         "body": {
@@ -256,17 +256,17 @@
           "contents": [
             {
               "type": "text",
-              "text": "屋主・房東・房仲夥伴・社區管委會・店家與企業",
-              "size": "xs",
+              "text": "屋主・房東・房仲・管委會・店家與企業",
+              "size": "sm",
               "weight": "regular",
-              "color": "#9DB0C6",
+              "color": "#B4C4D8",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#1B2A41"
+          "backgroundColor": "#1F3A68"
         },
         "footer": {
           "type": "box",
@@ -275,9 +275,9 @@
             {
               "type": "text",
               "text": "2 / 6",
-              "size": "xxs",
+              "size": "xs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#26282B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -313,13 +313,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "官方網站",
@@ -332,7 +332,7 @@
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://ethan.cardtaiwan.com/img/icon-line-v3.png",
+                      "url": "https://ethan.cardtaiwan.com/img/icon-line-w-v3.png",
                       "size": "20px",
                       "aspectRatio": "1:1",
                       "aspectMode": "cover",
@@ -340,7 +340,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "官方LINE",
+                      "text": "官方 LINE",
                       "size": "xs",
                       "weight": "bold",
                       "color": "#FFFFFF",
@@ -353,16 +353,16 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
-                    "label": "官方LINE",
+                    "label": "官方 LINE",
                     "uri": "https://line.me/R/ti/p/@waterproof888"
                   }
                 },
@@ -393,13 +393,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "修繕需求",
@@ -440,17 +440,17 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
                     "label": "分享名片",
-                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-05-1451#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
+                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-14-10#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
                   }
                 }
               ],
@@ -463,7 +463,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://ethan.cardtaiwan.com/img/card2-v6.jpg",
+          "url": "https://ethan.cardtaiwan.com/img/card2-v7.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -479,10 +479,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#1B2A41"
+            "backgroundColor": "#1F3A68"
           },
           "footer": {
-            "backgroundColor": "#F1F5FA"
+            "backgroundColor": "#E6ECF3"
           }
         },
         "body": {
@@ -491,17 +491,17 @@
           "contents": [
             {
               "type": "text",
-              "text": "科技測漏・外牆防水・屋頂與浴廁防水・壁癌修繕",
-              "size": "xs",
+              "text": "科技測漏・外牆防水・屋頂浴廁・壁癌修繕",
+              "size": "sm",
               "weight": "regular",
-              "color": "#9DB0C6",
+              "color": "#B4C4D8",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#1B2A41"
+          "backgroundColor": "#1F3A68"
         },
         "footer": {
           "type": "box",
@@ -510,9 +510,9 @@
             {
               "type": "text",
               "text": "3 / 6",
-              "size": "xxs",
+              "size": "xs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#26282B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -548,13 +548,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "官方網站",
@@ -567,7 +567,7 @@
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://ethan.cardtaiwan.com/img/icon-line-v3.png",
+                      "url": "https://ethan.cardtaiwan.com/img/icon-line-w-v3.png",
                       "size": "20px",
                       "aspectRatio": "1:1",
                       "aspectMode": "cover",
@@ -575,7 +575,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "官方LINE",
+                      "text": "官方 LINE",
                       "size": "xs",
                       "weight": "bold",
                       "color": "#FFFFFF",
@@ -588,16 +588,16 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
-                    "label": "官方LINE",
+                    "label": "官方 LINE",
                     "uri": "https://line.me/R/ti/p/@waterproof888"
                   }
                 },
@@ -628,13 +628,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "修繕需求",
@@ -675,17 +675,17 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
                     "label": "分享名片",
-                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-05-1451#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
+                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-14-10#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
                   }
                 }
               ],
@@ -698,7 +698,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://ethan.cardtaiwan.com/img/card3-v6.jpg",
+          "url": "https://ethan.cardtaiwan.com/img/card3-v7.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -714,10 +714,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#1B2A41"
+            "backgroundColor": "#1F3A68"
           },
           "footer": {
-            "backgroundColor": "#F1F5FA"
+            "backgroundColor": "#E6ECF3"
           }
         },
         "body": {
@@ -726,17 +726,17 @@
           "contents": [
             {
               "type": "text",
-              "text": "信義居家認證合作廠商・丙級防水技術士・公共工程實績",
-              "size": "xs",
+              "text": "信義居家認證・丙級防水技術士・工程實績",
+              "size": "sm",
               "weight": "regular",
-              "color": "#9DB0C6",
+              "color": "#B4C4D8",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#1B2A41"
+          "backgroundColor": "#1F3A68"
         },
         "footer": {
           "type": "box",
@@ -745,9 +745,9 @@
             {
               "type": "text",
               "text": "4 / 6",
-              "size": "xxs",
+              "size": "xs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#26282B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -783,13 +783,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "官方網站",
@@ -802,7 +802,7 @@
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://ethan.cardtaiwan.com/img/icon-line-v3.png",
+                      "url": "https://ethan.cardtaiwan.com/img/icon-line-w-v3.png",
                       "size": "20px",
                       "aspectRatio": "1:1",
                       "aspectMode": "cover",
@@ -810,7 +810,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "官方LINE",
+                      "text": "官方 LINE",
                       "size": "xs",
                       "weight": "bold",
                       "color": "#FFFFFF",
@@ -823,16 +823,16 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
-                    "label": "官方LINE",
+                    "label": "官方 LINE",
                     "uri": "https://line.me/R/ti/p/@waterproof888"
                   }
                 },
@@ -863,13 +863,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "修繕需求",
@@ -910,17 +910,17 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
                     "label": "分享名片",
-                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-05-1451#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
+                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-14-10#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
                   }
                 }
               ],
@@ -933,7 +933,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://ethan.cardtaiwan.com/img/card4-v7.jpg",
+          "url": "https://ethan.cardtaiwan.com/img/card4-v8.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -949,10 +949,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#1B2A41"
+            "backgroundColor": "#1F3A68"
           },
           "footer": {
-            "backgroundColor": "#F1F5FA"
+            "backgroundColor": "#E6ECF3"
           }
         },
         "body": {
@@ -961,17 +961,17 @@
           "contents": [
             {
               "type": "text",
-              "text": "透明流程、責任保固，從檢測到交付都說得清楚。",
-              "size": "xs",
+              "text": "透明流程、責任保固，交付都說得清楚。",
+              "size": "sm",
               "weight": "regular",
-              "color": "#9DB0C6",
+              "color": "#B4C4D8",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#1B2A41"
+          "backgroundColor": "#1F3A68"
         },
         "footer": {
           "type": "box",
@@ -980,9 +980,9 @@
             {
               "type": "text",
               "text": "5 / 6",
-              "size": "xxs",
+              "size": "xs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#26282B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -1018,13 +1018,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "官方網站",
@@ -1037,7 +1037,7 @@
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://ethan.cardtaiwan.com/img/icon-line-v3.png",
+                      "url": "https://ethan.cardtaiwan.com/img/icon-line-w-v3.png",
                       "size": "20px",
                       "aspectRatio": "1:1",
                       "aspectMode": "cover",
@@ -1045,7 +1045,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "官方LINE",
+                      "text": "官方 LINE",
                       "size": "xs",
                       "weight": "bold",
                       "color": "#FFFFFF",
@@ -1058,16 +1058,16 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
-                    "label": "官方LINE",
+                    "label": "官方 LINE",
                     "uri": "https://line.me/R/ti/p/@waterproof888"
                   }
                 },
@@ -1098,13 +1098,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "修繕需求",
@@ -1145,17 +1145,17 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
                     "label": "分享名片",
-                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-05-1451#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
+                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-14-10#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
                   }
                 }
               ],
@@ -1168,7 +1168,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://ethan.cardtaiwan.com/img/card5-v6.jpg",
+          "url": "https://ethan.cardtaiwan.com/img/card5-v7.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -1184,7 +1184,7 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#F1F5FA"
+            "backgroundColor": "#E6ECF3"
           },
           "footer": {
             "backgroundColor": "#FFFFFF"
@@ -1199,7 +1199,7 @@
               "text": "聯絡銓治工程",
               "size": "xl",
               "weight": "bold",
-              "color": "#1B2A41",
+              "color": "#1F3A68",
               "wrap": true,
               "margin": "none"
             },
@@ -1208,7 +1208,7 @@
               "text": "傳現場照片給我們，先了解再安排勘查",
               "size": "xs",
               "weight": "bold",
-              "color": "#1D6DB6",
+              "color": "#1B6DB7",
               "wrap": true,
               "margin": "xs"
             },
@@ -1221,13 +1221,12 @@
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "📞",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#1D6DB6",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://ethan.cardtaiwan.com/img/flex-tel-w1.png",
+                      "size": "20px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
@@ -1236,30 +1235,28 @@
                       "weight": "bold",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
                   "spacing": "sm",
-                  "margin": "none"
+                  "alignItems": "center"
                 },
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#3A527A"
                 },
                 {
                   "type": "box",
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "💬",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#1D6DB6",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://ethan.cardtaiwan.com/img/flex-line-w1.png",
+                      "size": "20px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
@@ -1268,30 +1265,28 @@
                       "weight": "bold",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
                   "spacing": "sm",
-                  "margin": "none"
+                  "alignItems": "center"
                 },
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#3A527A"
                 },
                 {
                   "type": "box",
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "✉️",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#1D6DB6",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://ethan.cardtaiwan.com/img/flex-mail-w1.png",
+                      "size": "20px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
@@ -1300,62 +1295,58 @@
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
                   "spacing": "sm",
-                  "margin": "none"
+                  "alignItems": "center"
                 },
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#3A527A"
                 },
                 {
                   "type": "box",
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "📍",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#1D6DB6",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://ethan.cardtaiwan.com/img/flex-map-w1.png",
+                      "size": "20px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
-                      "text": "新北市永和區仁愛路202巷40號1樓（對面是永和保福宮側面）",
+                      "text": "新北市永和區仁愛路 202 巷 40 號 1 樓（對面是永和保福宮側面）",
                       "size": "md",
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
                   "spacing": "sm",
-                  "margin": "none"
+                  "alignItems": "center"
                 },
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#3A527A"
                 },
                 {
                   "type": "box",
                   "layout": "horizontal",
                   "contents": [
                     {
-                      "type": "text",
-                      "text": "🕘",
-                      "size": "lg",
-                      "weight": "regular",
-                      "color": "#1D6DB6",
-                      "wrap": false,
-                      "flex": 1
+                      "type": "image",
+                      "url": "https://ethan.cardtaiwan.com/img/flex-clock-w1.png",
+                      "size": "20px",
+                      "aspectRatio": "1:1",
+                      "aspectMode": "cover",
+                      "flex": 0
                     },
                     {
                       "type": "text",
@@ -1364,18 +1355,17 @@
                       "weight": "regular",
                       "color": "#FFFFFF",
                       "wrap": true,
-                      "margin": "none",
                       "flex": 7
                     }
                   ],
                   "spacing": "sm",
-                  "margin": "none"
+                  "alignItems": "center"
                 }
               ],
               "spacing": "none",
               "margin": "md",
               "paddingAll": "14px",
-              "backgroundColor": "#1B2A41",
+              "backgroundColor": "#1F3A68",
               "cornerRadius": "20px"
             },
             {
@@ -1388,7 +1378,7 @@
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://ethan.cardtaiwan.com/img/icon-map-v3.png",
+                      "url": "https://ethan.cardtaiwan.com/img/flex-map-w1.png",
                       "size": "20px",
                       "aspectRatio": "1:1",
                       "aspectMode": "cover",
@@ -1409,13 +1399,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
                     "label": "導航到門市",
@@ -1429,7 +1419,7 @@
           ],
           "spacing": "lg",
           "paddingAll": "16px",
-          "backgroundColor": "#F1F5FA"
+          "backgroundColor": "#E6ECF3"
         },
         "footer": {
           "type": "box",
@@ -1438,9 +1428,9 @@
             {
               "type": "text",
               "text": "6 / 6",
-              "size": "xxs",
+              "size": "xs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#26282B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -1476,13 +1466,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "官方網站",
@@ -1495,7 +1485,7 @@
                   "contents": [
                     {
                       "type": "image",
-                      "url": "https://ethan.cardtaiwan.com/img/icon-line-v3.png",
+                      "url": "https://ethan.cardtaiwan.com/img/icon-line-w-v3.png",
                       "size": "20px",
                       "aspectRatio": "1:1",
                       "aspectMode": "cover",
@@ -1503,7 +1493,7 @@
                     },
                     {
                       "type": "text",
-                      "text": "官方LINE",
+                      "text": "官方 LINE",
                       "size": "xs",
                       "weight": "bold",
                       "color": "#FFFFFF",
@@ -1516,16 +1506,16 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
-                    "label": "官方LINE",
+                    "label": "官方 LINE",
                     "uri": "https://line.me/R/ti/p/@waterproof888"
                   }
                 },
@@ -1556,13 +1546,13 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3F4C5F",
-                    "endColor": "#152133"
+                    "startColor": "#435A80",
+                    "endColor": "#182D51"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#566172",
+                  "borderColor": "#596D8F",
                   "action": {
                     "type": "uri",
                     "label": "修繕需求",
@@ -1603,17 +1593,17 @@
                   "background": {
                     "type": "linearGradient",
                     "angle": "90deg",
-                    "startColor": "#3D76A9",
-                    "endColor": "#134877"
+                    "startColor": "#3F84C3",
+                    "endColor": "#15558F"
                   },
                   "cornerRadius": "100px",
                   "flex": 1,
                   "borderWidth": "1px",
-                  "borderColor": "#5486B4",
+                  "borderColor": "#5693CA",
                   "action": {
                     "type": "uri",
                     "label": "分享名片",
-                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-05-1451#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
+                    "uri": "https://liff.line.me/2011946176-a2549LFU?share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451&v=2026-11-14-10#share=1&src=https://ethan.cardtaiwan.com/flex-cards.json?v=2026-11-05-1451"
                   }
                 }
               ],
